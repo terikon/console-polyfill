@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gskinner/console-polyfill.git"
+    "url": "https://github.com/terikon/console-polyfill-npm.git"
   },
   "keywords": [
     "console",
