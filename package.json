@@ -1,5 +1,5 @@
 {
-  "name": "console-polyfill",
+  "name": "console-polyfill-npm",
   "version": "0.0.1",
   "description": "Simple console polyfill for all console methods.",
   "main": "console.js",
